@@ -1,0 +1,944 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3508" height="2480" viewBox="0 0 3508 2480">
+  <defs>
+    <style>
+      .cls-1, .cls-14, .cls-2, .cls-20, .cls-36 {
+        fill: #ff893a;
+      }
+
+      .cls-1 {
+        clip-rule: evenodd;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-Dark_-_Theme);
+      }
+
+      .cls-23, .cls-4, .cls-45, .cls-9 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #8b899d;
+      }
+
+      .cls-39, .cls-5 {
+        fill: #ccc;
+      }
+
+      .cls-5 {
+        font-size: 35px;
+      }
+
+      .cls-29, .cls-36, .cls-5, .cls-7 {
+        font-family: Montserrat-Medium, Montserrat;
+      }
+
+      .cls-12, .cls-14, .cls-29, .cls-36, .cls-5, .cls-7 {
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        fill: rgba(254,254,254,0.07);
+      }
+
+      .cls-24, .cls-29, .cls-7, .cls-8 {
+        fill: #999;
+      }
+
+      .cls-12, .cls-14, .cls-15, .cls-18, .cls-20, .cls-24, .cls-36, .cls-39, .cls-7 {
+        font-size: 30px;
+      }
+
+      .cls-8 {
+        font-size: 33px;
+      }
+
+      .cls-24, .cls-39, .cls-8 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-9 {
+        stroke: #d8d8d8;
+        stroke-width: 2px;
+      }
+
+      .cls-10, .cls-17, .cls-18 {
+        fill: #d8d8d8;
+      }
+
+      .cls-10 {
+        font-size: 31px;
+      }
+
+      .cls-10, .cls-15, .cls-18, .cls-20 {
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+      }
+
+      .cls-11 {
+        fill: rgba(237,171,46,0.1);
+      }
+
+      .cls-12, .cls-15, .cls-16 {
+        fill: #edab2e;
+      }
+
+      .cls-12, .cls-14 {
+        font-family: Roboto-Medium, Roboto;
+      }
+
+      .cls-13 {
+        fill: rgba(229,95,79,0.1);
+      }
+
+      .cls-19 {
+        fill: rgba(229,95,79,0.2);
+      }
+
+      .cls-21, .cls-27 {
+        fill: #272727;
+        stroke: #ff893a;
+      }
+
+      .cls-21 {
+        stroke-width: 5px;
+      }
+
+      .cls-22 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-23 {
+        stroke: #999;
+        stroke-width: 3px;
+      }
+
+      .cls-25 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-26 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-27 {
+        stroke-width: 7px;
+      }
+
+      .cls-28 {
+        opacity: 0.1;
+      }
+
+      .cls-29 {
+        font-size: 32px;
+      }
+
+      .cls-30 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-31 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-32 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-33 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-34 {
+        fill: url(#pattern);
+      }
+
+      .cls-35, .cls-38 {
+        fill: #fff;
+      }
+
+      .cls-35 {
+        font-size: 36px;
+        font-family: Montserrat-Bold, Montserrat;
+      }
+
+      .cls-35, .cls-38, .cls-41, .cls-43 {
+        font-weight: 700;
+      }
+
+      .cls-36 {
+        letter-spacing: 0.253em;
+      }
+
+      .cls-37 {
+        fill: rgba(255,255,255,0.27);
+      }
+
+      .cls-38, .cls-41 {
+        font-size: 60px;
+      }
+
+      .cls-38, .cls-41, .cls-43 {
+        font-family: Roboto-Bold, Roboto;
+      }
+
+      .cls-40 {
+        fill: rgba(255,255,255,0.17);
+      }
+
+      .cls-41, .cls-43 {
+        fill: #fefefe;
+      }
+
+      .cls-42 {
+        fill: rgba(255,255,255,0.07);
+      }
+
+      .cls-43 {
+        font-size: 50px;
+      }
+
+      .cls-44 {
+        stroke: none;
+      }
+
+      .cls-46 {
+        fill: #151515;
+      }
+
+      .cls-47 {
+        filter: url(#Rectangle_44);
+      }
+
+      .cls-48 {
+        filter: url(#Rectangle_43);
+      }
+
+      .cls-49 {
+        filter: url(#Rectangle_13);
+      }
+
+      .cls-50 {
+        filter: url(#al_khaled_rayhan_42);
+      }
+
+      .cls-51 {
+        filter: url(#Rectangle_11);
+      }
+
+      .cls-52 {
+        filter: url(#Rectangle_12);
+      }
+
+      .cls-53 {
+        filter: url(#Rectangle_23);
+      }
+
+      .cls-54 {
+        filter: url(#Rectangle_28);
+      }
+
+      .cls-55 {
+        filter: url(#Rectangle_32);
+      }
+
+      .cls-56 {
+        filter: url(#Ellipse_41);
+      }
+
+      .cls-57 {
+        filter: url(#Rectangle_29);
+      }
+
+      .cls-58 {
+        filter: url(#Rectangle_45);
+      }
+
+      .cls-59 {
+        filter: url(#Rectangle_16);
+      }
+    </style>
+    <filter id="Rectangle_16" x="876" y="120" width="1533" height="699" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_45" x="876" y="1470" width="1533" height="970" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_29" x="876" y="816" width="1533" height="654" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-3"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_41" x="2883.895" y="1499.764" width="106.633" height="106.633" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#ff893a" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_32" x="2339" y="1204" width="1129" height="787" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-5"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.776" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d9dfe3" stop-opacity="0.455"/>
+      <stop offset="1" stop-color="#d9dfe3" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Rectangle_28" x="2339" y="2004" width="1129" height="436" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-6"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_23" data-name="Path 23" class="cls-1" d="M60.167,44.334V38L34.834,22.167V4.75a4.75,4.75,0,0,0-9.5,0V22.167L0,38v6.333l25.334-7.917V53.834L19,58.584v4.75l11.083-3.167,11.083,3.167v-4.75l-6.333-4.75V36.417l25.334,7.917Z"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_22" data-name="Path 22" class="cls-2" d="M0,1786.016H2140.686V0H0Z"/>
+    </clipPath>
+    <filter id="Rectangle_23" x="2344" y="130" width="1129" height="1070" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-7"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_12" x="40" y="1421" width="906" height="1019" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-8"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-2" width="36" height="36"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-2" width="36" height="36" transform="translate(0 0.272)"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="36" height="36" transform="translate(0 0.373)"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-2" width="36" height="36" transform="translate(0 0.457)"/>
+    </clipPath>
+    <filter id="Rectangle_11" x="40" y="119" width="906" height="1159" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-9"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 640 960">
+      <image width="640" height="960" xlink:href="data:image/jpeg;base64,/9j/4gIcSUNDX1BST0ZJTEUAAQEAAAIMbGNtcwIQAABtbnRyUkdCIFhZWiAH3AABABkAAwApADlhY3NwQVBQTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWxjbXMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApkZXNjAAAA/AAAAF5jcHJ0AAABXAAAAAt3dHB0AAABaAAAABRia3B0AAABfAAAABRyWFlaAAABkAAAABRnWFlaAAABpAAAABRiWFlaAAABuAAAABRyVFJDAAABzAAAAEBnVFJDAAABzAAAAEBiVFJDAAABzAAAAEBkZXNjAAAAAAAAAANjMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0ZXh0AAAAAEZCAABYWVogAAAAAAAA9tYAAQAAAADTLVhZWiAAAAAAAAADFgAAAzMAAAKkWFlaIAAAAAAAAG+iAAA49QAAA5BYWVogAAAAAAAAYpkAALeFAAAY2lhZWiAAAAAAAAAkoAAAD4QAALbPY3VydgAAAAAAAAAaAAAAywHJA2MFkghrC/YQPxVRGzQh8SmQMhg7kkYFUXdd7WtwegWJsZp8rGm/fdPD6TD////gABBKRklGAAEBAAABAAEAAP/tADZQaG90b3Nob3AgMy4wADhCSU0EBAAAAAAAGRwCZwAUS1dWVy1VakhqX0FtQ0JaUnY0ZWwA/9sAQwAJCQkJCgkKDAwKDxAOEA8VFBISFBUgFxkXGRcgMR8kHx8kHzEsNSsoKzUsTj03Nz1OWkxITFpuYmJuioOKtLTy/9sAQwEJCQkJCgkKDAwKDxAOEA8VFBISFBUgFxkXGRcgMR8kHx8kHzEsNSsoKzUsTj03Nz1OWkxITFpuYmJuioOKtLTy/8IAEQgDwAKAAwEiAAIRAQMRAf/EABoAAQEAAwEBAAAAAAAAAAAAAAABAgMEBQb/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/aAAwDAQACEAMQAAAB+QFAAAAAAABQAIAAAAAAAAAACgAAAAAAAAAAAAAAAAAgSurl6jlu/A2c3RzgAAAAAAAUACAoAAIAAAACgAAAAAgAAAAAKACAoAAQ6uXvHLmHP3cIAAAAAAAFAAAAAAAAgAAAAAAAAAAAAAAAAKAAAEOnm7S8ucGnr5AAAAAAAAAAAKAAAAAAABAAAUAAAAAAEAAABQAAJYi7dNANmsAAAAAAAAAAAAAoAAAAAAAAAAAAAAAAEAAAABQIMgoACoKlAAAAAAAAAAAAoAAAAAAAAAAAAAAAAAAAIASwCAAAAoCoKlAAAAAAAAAAAAAAAAAoAAAAAIAAAAAAAAggAAAAAAAKAqCoKgqUIKgoAAAAAAAAAAAAoAAAIAAAAAAAggAAAAAAAAAAAAAAABYqgAAAAAAAAAAAAAAAEKgACAAoIAAAAAAAAAAAAKqLAICgAKgqCpQAAAAAAgqCoKgsAAAIAAAAAAAAAAAAAAAAAtxtJYBAAAAUAAAAAAAAAAAEAAAAAAAC1FkAAAAAAAAAAAAAAAAAAAAAAAAAABQQAAAAAAAAAAstBUGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUEAFVFkALLQVBkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKWruYSzNCFloKgyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWUypvOEszoIWWgqDIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUizQWM6azrmWOdBClBUGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhSym0bzrxyxxoIooKgyAAAAAAAAAAAAAAAAAAAMtlaWWMLBlipAAAAAAAAAALMq2q3nTjljihLUtBUGQAAAAAAAAAAAAAAAAACrWc1jcjUxiZty1iwgAAAAAAAKsspljmm6ZY6mnHLHFCVSgqDIAAAAAAAAAAAAAAAABc8KuNkXZrlZ4yiLEWBRAAAAAAAAAM9eyzfjnjuaMcscaCKNFggyAAAAAAAAAAAAAAAAAyxBb1rxz1cWvNejqOTJLJEkLEAAAAAAAAAm3Xs1OjDZhqc+OWONBFGiymIyAAAAAAAAAAAAAAAAVaxyU3e/wetz9Ge3HbNzHbU8vn9vXXi+f9Pqk+V1fVebrHjzZjrliEAAAAAAAbdW3U6MMsNTRjZjQRRospiMgAAAAAAAAAAAAAAALlhlTZq7pv1+vXs5ejbt07TIxqxTDHPXGPL06TyvL97yNc+Ub4AAAAAAANurbqb9eerU1SzGhYDRZTEZAAAAAAAAAAAAAAAAMscjp97Rlz9PTt8HCvp9/y/oWezjjvl55uxmtOHRgc+jp5o0eR7HBc+SOnmAAAAAAAbNdrdhMdSFzQAFlrEZAAAAAAAAAAAAAAAbMfo92e3yvXh6Nz3t+zn3w3eVzaz63k6c7nq9rz/Smt+GXIuny+zzkxx6M7nVly5S+fr7OPXELkAAAAAACwpQACllMRkAAAAAAAAAAAAAAyx2H1vZzZ49fjdXD6LO9llnXLn0NTx8++XPP6GGzO8vH9jwyavRz1jyNiJ2czfnflcPo8O+GDq5WQsAAAAAACqAACisRkAAAAAAAAAAAAAAsH1zk6Ofr8j2PH9lnq2Y7WtersVy7N2Jrz1dEYeT7Hlly25nJj0Q5cejUnl5Nyc/l93DrmGuQAAAAACy0AABRWIyAAAAAAAAAAAAAAA9/0/K9HHo8P2/nffO/fz9E1ujRSZwbODI6+Hl0nd6Xj+0c+vfrl5eXq408vZzbE0cuWO+AXIAAAAAClAABVBiMgAAAAAAAAAAAAAAOn1fBTW33vnfab9rp8/ux1268/KsTze+uLtwzXg23jk+l3fLeoetrw1zWvk3cKeft1Lz4xviAAAAAABUtAABVBiMgAAAAAAAAAAAAAAAL3+fsa+i9P5z3Ofo6+PdmcmPpq8bD1ea68vD0sY8vb6e5i6tvJLh5HZ4+sejxaF5hcAAAAAAALLQAAVQYjIAAAAAAAAAAAAAAABu0+vNed7vz3TOnv9nyvtzfstQnD6GtdNyka8ceY6OO+UTls6eYEAAAAAAAAWWgAAqgxGQAAAAAAAAAAAAAAAD2/E9TPTLyfq/GmuDbob5+x1fPbWvqc/n+nPXo0+Pgx63Lwk6OdLgLkAAAAAAAABZaAACqDEZAAAAAAAAAAAAAAAAPT8z1M9PR6NOWO/D5P1XLrHzWfbya5alqYM9hp37cs9NXNu065hcgAAAAAAAALLQAAVQYjIAAAAAAAAAAAAAAAC+j53oZ6+p1eZ247ZXplnPzb9Uvn6vQ1JwuiGhu5E16zr5wQAAAAAAAACpaAACqDEZAAAAAAAAAAAAAAAAPR87tnTr3ZY47dnX5m1fRx4YnZr5cJdnFjyJjzbmsaBvgAAAVUUQQAAABUtAABVBiMgAAAAAAABalAKioiwCAAG/Rsb+g6PJ9THbC79svFh3Dz9fpc55ePpYHK6eKzzBvzAABQCygEWAQABRQAAVQYjIAAAAAABZaCgAEsgBQASiZSS+v7Pm+vjvou6TWplCTIasd3l2PGk3wBkAKAAoEolgACAKloAABSsRkAAAAAALQUACAqVEoBQARFRs+p+R2tfYvO9HPaY54y4yeBc9HkSa42CABQAAFShKRRABACy0AAFUGIyAAAAAAWKooAAAAAEBQIoEjL6T5nNr7PDl5s9PP4I1xCCqiiKIsCwAWUllEsAAgBYqgACllMRkAAAAAAFVKRYUlUIFABAAALFEobdcRCgUAAlRFgAAsFFIQAAELLQAAUsEGQAAAAAAUABYFFBYEoIAAFABLFQFAAgKAlkABAFGkGQAUELLQAAUBBkAAAAAAAFFgAstAAAhFUAAASgABYAEAqWQAEAVFABAAClAABQEGQAAAAAACxVFQZLLQUAFkAoAADKXFYABYAAEqWQEAAWAWUEAALLQAAAEEAAAAAAAAABQFQUUFgUEABK2awAAFgAAQlLBkAFBAAAACy0AAABBAAAAAAAAAAAACy0JqVAKAoQFgCWQstAABKJAQAAAFBAUELLQAAAEEAAAAAABQAQAAAstBqQCgChAWBAAUAEAsWQEAAAAAWFBAVQAAAQQAAAAAAAFBAAACy0GpCgUlmbZQKQAWAABALFkBAAAAUEAAAUUAABBAAAAAAAAAAAACy0FgUAlktBsawACAAAoCEABAAAAAAACy0AABBAAAAAAAAAAAACy0FgUAEoWABKFgAASgJZAAQAAAAAAAstAAAQQAAAAAAAAAAAAstBYFAQCygAShYAAEAqWQAEAABQQAAAsVQAAQQAAAAAAAAAAAAVQUFgAAAASggAAKlkABAAAAUAEAABVSgAEEAAAAAAAAAAAABVFBYAEABQSgAACQAEAAAAAAAAAAUUABBAAAAAAAAAAAAAVRQAAICgAABBAEAAAAAAAAAAAAKUABBAAAAAAAAAAAAAFRVFAgAAAKAhAQAAAAAAAAAAAABUtAAQQAAAAAAAAAAAAAFUUACAAoBEABAAAAAAAAAAAAAAtAAQQAAAAAAAAAAAAAFUUAACAoRABAAAAAAAAAAAAAACy0ABBAAAAAAAAAAAAAAVUoFAAAJZAAQAAAAAAAAAAAAAALUoAQQAAAAAAAAAAAAAAstAAAAIAQAAAAAAAAAAAAAAAFVKAQQAAAAAAAAAAAAAAFALBUFgBAAAAAAAAAAAAAAAAAVUoBBAAAAAAAAAAAAAAAAUAAEAAAAAAAAAAAAAAAAABQCyn//xAAsEAACAgECBQQCAgIDAAAAAAAAAQIRAxASEyExUGAEIjJAIDAUM0GQcKCw/9oACAEBAAEFAv8AiNwrHplhtl4ZbeKHW+eVtz8M5rFGTkOryqsnhkv6I8h7T1Hz8MX9eOHP/OT5+GOO3FB03Jt5o1Lwze9mk5Ocv/CRo2+H2Wbi0XpZf1lo+57TkX9laPuXQv7a0fbUuwrR91Rf2Fo+4Rx2cE4MjgyHjaKK+wtH2+MbIRSWlDimSwoWGiWAeGQ4SX1Vo+34Y/nWlDiTxoar6a0fbo9cfT9LGTjf01o+3Yo21+tkia+ktH23Fj3NJRQhaUV+TGZfpLt3UxrapTUR5crN+VC9TJEfVojlhLSitWMZlXLvijKQ01phVyNiYkhUZMWKQ8BHG0RejZOdD9S0fymfyBZVIfMkqfe4Q9s8SmskNjwR5JaZJMaypPMxZiMhDGyfM4KYvTxP48CeGiErM3XvS5uqSXL1aVwXLRo9zjLD7pRjKMIURZJjn7m6HLaceIszLs2q83e4/IlPapy35Y68iho26JDJ8pxxoypyIYkjJjVwTSM4lZLHS7zCW6L5kf7ULTaUyitEMkucVrRWmfpGFKXx7z6f+vnAxc5RFrRQxXoyREcSiihmXTI/b3n03wnXDw9YiFo3p/nfjQmiRVkHU6K0ZIzdU+WR969L8cl7IOnFiFoxDPai0TlJkFTUZOeshmV+6PJN2+848jxt+qjtTIPkhadB+otuUh8RkIyRmtGHKhMvRkhnXJkft77hdpMWnqZVHFSOIbrNzJOzh83OcHjy7iyxmR0saMvfscqcWIslDc+Ajh0cM4Zw5DiJSkQxOOQY2ZZGOlHI7l37HOxMsWrGUcMoWjZKQ/AGvbB84yN5B3q0OLtLWyycicr8BgrxdGps3u8U1SZejL0bNw5E5c/AcHwzYtYyacc3NZRTNw8hxuUsqOIOfgeB8jLhrWyyOUeVU5F+DYvimdTJhJQa/Qok+ngWLouZ00njseEcGtKKFES0n4HEizqU0bjkx40PCbGV+EuvgSEyMhMeNMcJouRuOZskbDkiUvBIdBMTFIv8GxyJPwXGbbKoRZZZuHIchvTb4JFkGdTaVpRtGhmw2jVLwNGN6LSkUikOJtK0zPl4GjCiijmWWXrRlyKI234L6Zpr9GbNXg8JODhNTX5Zs5deERlKLw5t/wCEmksmdy8LTow5t60z5d78MTaeLKpr1OSl4dCbg223/otSt+HwdP8A0X0/D4fKTv8A7/P/xAAoEQABAwIFAwUBAQAAAAAAAAABAAIREBIgITFAUAMyQRMiMFGQQmH/2gAIAQMBAT8B/TMCVYVYVB4VggVhWgo9P64Jok43jLgWi0K8K5Tgdod/6WWqa33UJAQtKimah6BPlOyJ341NCrRUz4Qv+qOEuRBGu9ByTdPhaPcV1e7ejtCYcvhac3Jxkk70OIXTOCF5U1/g/wC79pg4MkYUUeckXSAN+0TKY7wpwkwiZPAdPuT2eQpKD1IV69ROcTwPT1o5oKLCFBVjkGBP7uB6fnGTJ4FlYq4E8EzWs1OQ4IGCpwEwnOJ4NroQNC4BEzwoMK7JHP8AVv8A/8QAJREAAQMDBAICAwAAAAAAAAAAAQARUBAwQAIgITESQUJgcICQ/9oACAECAQE/Af4BtEmIMQYg5DG8KHIcrm+cjq8KHIcUe4KHH1HY6e0KHGO8GyMg8rxXim2CyMZ0TxQOuU9OFxAmg2BlxT1nmyVp6zfaNk+kM1kbPyhwmzyiNwgdXSBo1GTQRoCno4R1IdQOqIO4QR6iCm2MmhgIdvt4/ExiDEGEH7p//8QAMBAAAQIFAQcCBAcAAAAAAAAAAQARAhAhMWAgEjBBUGFxgTJwIlGAkEBicoKRoLD/2gAIAQEABj8C9o34vOlsN/cmK8qLvhr/AJkPjlFhsPdOydivGGn9SvD/ACvKi74b5kET8zhuzwd5mI/4SdxiFlZWVvripK31C1VIVxlUKhwagVRorOyoddlbn8PaTadrYovQ2u6vJxgEHXSYeCdAbPnQ0q7So6+cxzuHvOHoN2FtPVeqrKtap4Q0xzwHpKLTfeiUfOgiVF+Ch7y887ifc+oaNnVDIDnR7o7qkqxEoHUETzy2p1SdZMcKZdZXlVX1lDAqytO6uqofL2UB9oXGkYY4xse9PpKsvT76HEGw9hfBuu5aG+DuE417MOE0K66KphbDG4zYWw1wuq2Rxw9wnP2Lm+2eEf7/AD//xAArEAEAAgEDBAICAgICAwAAAAABABEhEDFRQVBgYUBxIIGRoZCxMKBwwfD/2gAIAQEAAT8h/wDEZkvcenQLr7gNv2j4bYD0HTM+q3ZfD0/qWl06MeGhQtXhTEAIeGGml3zGs834ba28YRm7a3zBQB5N2WxW0HhpsL6N4mKhvUW2L6J/beG8xaH1tDyYOepAS7z/AO5Ql0m+/huB0tTdAf8AsYHiB4geIEfDyMfDSEY+GkIx7tXxyEY9wEy9WhNvlkIx7eS5xKxTjHpwDixroQRKO58caHt1fgcsRr0n0JfyRoe3dNKlg9y3zBoe2B10d/8Aiv4w0PbF1Imlaboj9TeV8caHtwaZTtPVOIh7iWCCZSaPxpoe3XKgqBAgJuhOPAtLsxwJuPxk0vbNoZZ14Qh+CIkbwuI4wR18SaHtjzNiCoIQ/F1GEGJTXwx2+8BWhDR1Y6hKnwET1QwBCUggaWK0Yx1Rn4a4vbAsEpSEXHRYlPJHTLnH4eRwx0KlfgLPh77VvixeqNP0sCbwQU+mC9LySmTYxtRRNsBis5x91MCRHO+BQbUmQmZdxVfnQcEPtf6nRu5YELVtqY1//XDahuYEGdC4she601zIwp3IMX13sUHLUwjgrQq5IoBCNyybg/aU5cwp7P2lbeUEwxocz+ZQE5+qj1RnVYSpiVgm/vf+sm7XuW7Vz+iuglSlMdAitA4gsRKH3TJ4CgmJSg6ixqigBjBLsCWCN1v3naFyMdGP+StIlRhmFCKghxLoQ2jKjLoH8sIuYq+iu9OyfZMDbEzXvUNdCPGJkhNs3w2aCpaOpek/k96f7psbpHS/AEolqz2jgIP3oGVKRn+ztGWE1Fg9y1T9Dl72hQS4mI1LigqVTM3bBPcoNsxw1GuW4jNKCXiMdW4pkksHnvV5MnUjkDupmhoY9CxQWlQHdjdoasMIhvZe8VyQWE3FFHCnXabQ6vfTQM+r7VFneiW6YlYVGGIagGRBriHj10MKWsutHkeu+kxVzBHjQMnCUy+6EdGoqvcQbh6uMYsRtIqKYJdiHJYLJt30hiWqmP8AAWAlItntKmxKBF0sTHb4Ap0bKJ2ZhKUI6H1sY3jo6AHgSEyI0TnaagzB0iOougxQS/wIsI0tpc3xG6psuSCxCQbq4iKGGWjPWXfgVH7TcqZGxMkJabnO0HFzrMZXRctnvwM6LAhOSfQzrFzv00t/DnlADwPCBT3Bd0EYNqn6tJqXl9ECXNx4Eb66gx90hCdKOlCtx5phrUV+BDebNYBm34Zs9MQ3grl/Eb7KK9KmG8QPBTL8R9WKRSKQtK2PgjhRFRaH4MmkzpbwSpGCkQEuONFalE9CCd4HiCj14KeEUwz0T1x4pbpwlSscvBFLn8BbifWW4lsS9HVT/SIWtvgqThCVKlSpUrTLb2eI318GEyO/kLN5ftglZv4RaqoJpxprS1KiPOH/AG8LRCNJDubdHmcCP78NNJST1NvMsZ3fXiBBElr/AILmIRq8NnO3h+X9J/MeL2/wXoA14fTOYuWFkb28Qu/+9T//2gAMAwEAAgADAAAAEAggggggggAAQQcfff8A/wD/AP8A77777777777777777z0IL4oIIIIIIIAAFTz7/wD/AP8A/wC+++++/wD/AP3/AP8APPfPPAkloggggggggADPPPPPv/8A/wD/AP8A/wD/AP8A3333333zzzwIIaIIIIIIIIJb7zzzzzz77/8A/wDvvvvvPPffffPPMLikoggggggggkvvvvPPPPPPPPPPPPPPPOMccccQAPvPPDiggggggggsvvvPPPPPPPPPPPPPPPAAAAAglPPvvvPDiggggggggksvvvvvvvPPPPPPrjjgggggvvPPPPvvvPDDDCjjAgggsssssssssIAAAgggggggvvPPPPPPPPPPPPvvvrgggggggggggggggghjvPvvPPPPPPPPPPPPPtPPvPPDjiggggggjjjjnPPPvvPPvPPPPPPPPPPPPitvPvvvPPPPPPPPPPPPvvvvvPPONvPPPPPPPPPPPPvvPPPvvvvvvvvvPvvvvvvPPPPKAPPPPPPPPPPPPPPPPPPPPPPPPPPvvvvvvvPvstvKBPPPPPPPPPPPPPPPPPPPPPPPPPPPPvvvvvvupnPKFPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPot/vKHPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPOvEB9vJvPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPkhjVvFvPPPPPPPPPPPPPPPPPPPPMNrmvPPPPPPPPAkuF/HvPPPPPPPPPPPPPPPPPPPOPgbjPvvPPPPPPFEdl/NvPPPPPPPPPPPPPPPPPPKFmiW/svvPPPPPPoj8lvlLPPPPPPPPPPPPPPPPPPn9+eUHv8A7zzzzzzwCVJb5SjzzzzzzzzzzzzzzzzyGF6BMS/RLzzzzzzwAEp75Sjzzzzzzzzzzzzzzzz1+wO/zi9eLzzzzzzwAGZTryjzzzzzzzzzzzzzzzysPIzndzRY33zzzzzyw6bhb6jzzzzzzzzzzzzzzzz0BK8rPTKU1bzzzzzzz5yL7yjzzzzzzzzzzzzzzy0iUM5lcBKgZffzzzzzz7wL74DzzzzzzzzzzzzzzyyobKQz+7oJlZzzzzzzz6oL75TzzzzzzzzzzzzzzzytaNrFPXA4nZbzzzzzz6Jb7wTzzzzzzzzzzzzzzzyMjd+Bl8HQ4rzzzzzzz4pb7wDzzzzzzzzzzzzzzzymyb7YgpmGSzzzzzzzz6pL7wTzzzzzzzzzzzzzzzy0OACJ002rXzzzzzzzz6ob7wTzzzzzzzzzzzzzzzz0ZeEFDJsbzzzzzzzzz6pT7wTzzzzzzzzzzzzzzz75arWYbcV/zzzzzzzzz6pT7xTzzzzzzzzzzz777778FKlo+xdzzzzzzzzzz4hD7xTzzzzzzzzz7777776sCpC0o/b3z77LD7zzz4oL7xTzzzzzzzz7iIDLT776hF932Tj777zyoLTzz4IL7wDzzzzzzzyoAABbyIJLYOqmd4z77zzwJK7zz4gD76DzzzzzzzgAAMBKIAALL85/8d77zzzworLz76gLLwDzzzzzz64AAIIAAMADAbxu37DLLTTyqpbz76wLLyjzzzzzz7wrYQMEEMMMLCBHgAABLbzywB7zz6gILyzzzzzzz7zz54IEIMMMEELIAIMIBbz74L77z6gALzzzzzzzz77zbygAAM0EEEIIIEEMBbz747z776IILzzzzzzzz76wD6oAAH+MMEIoIMMEBb7757T776oAJb7zzzzz77777zw4AMEMEJCIIMMMND77z77776gAJb7zzzzzz7777776oU/sAAMNesMEIb77zzz7z6gIAL7zzzzzz7zz7z76gH+MAIEMMEEMDT77z775zzwIAL7zzzzzz77z7z76gHsFZAYAEEEMDT77z7z77z4IAJbzzzzzz777zzz6oMMNQLQIMMMIBzz7777zzz6gAJLzzzzzz77zzzz6oMEMIEMIEEEIBTzzzz77zz6oIALzzzzzz77zzzz6oMEP2kMIEEEMBbzzzzz77z6wIALzzzzzz77zzzz7IIEEEEMIMMMBbz7zzzzzzzzwoALzzzzzzzzzzzz7wIEEMMEAAIAbz77zzz77zzz4AADzzzzzzzzzzzz7wIIIMIAAAI7777zzzz77zzz6IADzzzzzzzzzzzzz44AMMMMAB777zzzzzz77zzz4gADzzzzzzzzz7zzz7wAAMMIA7z7zzzzzzzz7zzz7gADzzzzzzzzzzzzz7wAAAMALz77zzzzzzzz7zzz6gADzzzzzzzzzzzzzzwoAAABbz7zzzzzzzzz7zzz7iADzzzzzzzzzzzzzz6oIIIJz77zzzzzzzz77zzz7wgDzzzzzzzzzzzzzz7zyw5777zzzzzzzzzzzzzz7wgDzzzzzzzzzzzzzz77zzz77zzzzzzzzzzz7zzz7zyj/xAAlEQEAAgEDBQACAwEAAAAAAAABABEQITFQMEBBUWFxgCCBkKH/2gAIAQMBAT8Q/wALDiDiDiDhnB3OnVdsHDODt12RxHgqIm503bB2wZSsHcQvKIjT0XB28BR/I23k6L25Bg+hlWF5eRZdFgdrSvkkbS+IwrXC0QieM+hLFCCl3puRugh1ftYFlJBKsgR0I26ohvG5GUCO0O9JK+p5/a4uX6jLlDKjAt+Ed19B3uv8UsJgLZeuWxlxhQX3j3o1G01EwtEBYCIliAWsLRLR/bv6CDZGCkt7hNHQlNMVw4hQd/fHyUCoBwZIWzWOAX/ERfJKqnshRoxMp64IRrfmPys8FB7oYI7Q2rqzc4HZG5L9zSUG2FAVlg8C9UhKHCosqQ4JbYS0yqMR4KgYBBJc0wItiPzg/wCjASyXCIrt4V38iC0Slf1mv99f/8QAIhEBAAIBBAMBAQEBAAAAAAAAAQARECAwMUAhQVBRYXCx/9oACAECAQE/EP8Ab35Ds3Lly8XL+5cvohE6N9Yj2SJu32j4VaDg+FeDQPiHOgfCCVDnQPhEuHPaCcErd5dkYOPmiL/ZbskeIc9glA4H0lry7lvZm2LUslk8CWfCjicTyYuXLEJPO35YOmRVFt1VO1Y8w6qVBS0YqVjkbRerz4gQQJ8RRPKMGLlD1Dg73i1nAhPDhlpdOQC08xGLeBCBEs7rzU5wlSsMtJeH4Cf9u68ofMJdGWGCHxAoDWdZDD4wYcJUuE5B+bB13yRgy5cuXgwor31VS5uJWVwG4FfBPWyifxKYYwDeOjTKj8YUgZZ+xL3EeJwd3xLz6YqUzzgFgUbR0q0mJLl5QaaJXTMVlyw8pcoZWQt2E6PrQ4DPCsEyJhTZrfNVaasiSojKA1eoQ5euaKJUS5yl14JUrUQjxh3TBh11Kf2VgNj1K8GDpPEONh9wPE9StDoce+iz07J4nrZJc9ZN4x+w2LJfiPJpckW49K4ZIZZ6lXKnvS5NR0iGXieoEYaXSRgYNwjpIZ4YIsNkyuDcIukhnjHiXUdTpo0HSIZ9IylZ71PfPqJK1se0caHae2ab3COg6PuHWOic5vReb2Lj1T5B8k+Qf4l//8QALBABAAICAAUEAgICAgMAAAAAAQARITEQQVFgYSBAUHGBkaGxcICQwaDR8P/aAAgBAQABPxD/ABGl1Vlg0VjKaWmiOsWkFwJWXyE32big0B6g85mQTOxrFZGNi4mGtAsUQjpSAAB2a3wTbIUJKK85r9wuaanYjBamXgjvs229TQVpLj9DhBgNmZbEupTL+5TdgNV5Ds1agXnVGmBAYOI5CO6LZUy09neNBU2cYKqofHc6kFHUEugUgEWEFNOzVK4J8reA0j0RhkBXdeCv+dR/29rs8iR7NOBj2acDHs04GPZpxHs0g9QdoIf4BbEcbEfcTNfSPjE8EPxCXEthuPoy+3ia+kfF0sxcqVh9FsfK8rDnsROVPG4NyDpqJrgOl3NAz/tZGr3fs3ht6wfFCWum5YFGD+XgCxcX+m2aJd8svy/RLe2eG01mnpHxI1FqnXLwtaOK3CuPs/8AUM1bZlCUdfc7euHxFBVyxHbwjrFz/PFeALoiGKbeFpd+039cPiFa9BNymXlbmhS49oxAAYoBeevbbzXh29B8SXqOzFVmGEB27jlbDoy4ZWOCMmZQrrz9rtNOHb0HwxGUyk57jmIY0WQOkN2S1qFNLEjUPIIxVL6Qrms3gRwVUfZ7TXg29B8MQ5zoYaIN35Q5hghwQZ0EGoHJKSISLmli4SeFxyfZbTT1R8MQg3tCoVEHFQwwEqXFm4IkAk2zGEVF7LeaRR+K1AeXSLaEDpdG2EQgy8vwHoqLM4DLv2JwjiOPxa4lqcGFGAmU8kCGxjBMeF4HgUOIx7GRcN3xiibYfPKzLPfQbZejNrFsb0fTFwQGV4FhEJudCZOBERCHBSHeGT2Q8C/E2WJ2hLwF5gbmedRgl0CppgdUVEdwmUJnSy2U2aWMwBscMoiwbIAMapcOpSbybIuUKGuiA64Rx8n2V/FaCFKMWpdymX0wxYogzMAwEA6V10bWIU7jrsDVbWTNYZslTzgQ1bGFRGYzM4uMKKD0ltsHBEgaZb6WQjry0E6r5soewH5nj4fpBfOri2bkglciFCKkHYlrCoPITVQzYftZcfyPijfop5yoiM4jtjhwPK/o2wuidVDABfecwdNOamyA6ZGYGGCvyfNtP/vzNS5OHoA1LqiFj0LNCCYcoYKRIalrqPcdQJVLVFDNKMZsIOoIoM0QW3YzkBPjEVunkOGAjBZMT8sCjc5U7Xp8yKhNjc5pQgvzS7Hi36Tl4ReXEBgVRG5QQHAQjanOC30agUn0iMIImJZRKC8kJ3X+R+aNhi4Vk01GPyqeIICmo3hIJQTmJfpHK3qUaSzJBSzcrhqZV6iLSuWU5D/B80255xDKF4Z5uSnAIA4QgDkih08QMSiIkt4XIPLG/BhAwpXDFKfKMy/pMwcn5H5p2V6gHmEzDZncuXxHHMCXsr27l8aQxGjmgsHGg6Eti+Ub8quSLURiF6Mrw4XHA6YTpQERPav5p4VsLdkiMOGBl4R8BsoBBXU2eIfZWxo+osXI5/cvRQdTDARWJUFCJKMRLMDwahjNLEpqUAB866ZYHMjAI7iXKqzlmLB2K/WYpsDxG/ZU8wVMMZUIwmKb1Nv1m3YzWXy5YKfEK/1n0+3zubCU7S1N85jRwlzAgVTCtqgioEgFuu2nJZcZLc6r+pcTTpc5QJDkD5EyQq7mBCJRnuYQZcAzlmlgAfO7GajcrjWIaJlGXBmHJEjYTPQzQwDlzWwcKFJmYRlivLaq+wGRXsoBcSjMGFauAZdZEWFwgFQWLUoOFxViWpoewVUcmNkUjwKyw0TUFswi8xF4ZzSAGUg1DBlkNMyyziKvYJI9FIzHjmS1QuQRSoYR2hWUrOU/YwHAYlwvliBdIysbzGDIzAk3UKVvYTUclQR0WMd77lHIMWbgGnMuc0rJU0Mx4I7Ltlty+74FKPJ2GyK3a8AEDmyYcibi+qFIvBLQ5JSWkU58QVwRWn9ZWIM32HgHSDcNQxQpgNMIoMwhaVdJ5oj5Xx1XLwXAZkvjsIWDzHUwETLma/JChNIl9TFANwm5ryxcymGFs/DdhaIbEQJqzCIDbfHqWmD4aZhSfi44f70/9cxXML5KMLIjrsRV1shEGVhmDRfDJnUQ40wUIvMVuY7exKWoVmmKUkQrMQJbrF9Yu98Azz4AisMi9imG63MsqKDpLGyKpmdMUs5xIcojHxdHSDKIU7p12JrG0EaUsydYoS7YjqinjgiTlKQ+EQ93z9HYlDUSBhqLMmIJ5CTqKK6+EXibRkFqX9Qjcm17FJNbCCNoww5cBDRAyTWAWu1vXsZbMmzqRxvs6MvxEOkxH64BKXIaP+iFWoaY2tra9iGXceF+7mG47OvkhkiIxMYNrGRevz7LJ2RYkIYdx18nDEUx7LP+3ZqfFWMvesRi65fh2et7mqjiFWr2eVZeo/7vDzl/oysJZ06mXZ4m9KU2AqCnAmFmn/gvQDB0p2fpZpsdPhgqjXbbDtBStVf/ADqf/9k="/>
+    </pattern>
+    <filter id="al_khaled_rayhan_42" x="258" y="159" width="470" height="470" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-10"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_13" x="55" y="1230" width="338" height="259" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-11"/>
+      <feFlood flood-color="#a3abb4" flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_43" x="324" y="1230" width="338" height="259" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-12"/>
+      <feFlood flood-color="#fff" flood-opacity="0.169"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_44" x="593" y="1230" width="338" height="259" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur-13"/>
+      <feFlood flood-color="#fff" flood-opacity="0.071"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Dark_-_Theme">
+      <rect width="3508" height="2480"/>
+    </clipPath>
+  </defs>
+  <g id="Dark_-_Theme" data-name="Dark - Theme" class="cls-3">
+    <rect class="cls-46" width="3508" height="2480"/>
+    <g id="Group_208" data-name="Group 208">
+      <line id="Line_1" data-name="Line 1" class="cls-4" x2="120" transform="translate(433.5 705.023)"/>
+      <g id="Group_206" data-name="Group 206">
+        <g id="Group_171" data-name="Group 171">
+          <text id="Experience" class="cls-5" transform="translate(936 138)"><tspan x="0" y="0">Experience</tspan></text>
+          <g id="Group_170" data-name="Group 170">
+            <g class="cls-59" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_16-2" data-name="Rectangle 16" class="cls-6" width="1413" height="579" rx="20" transform="translate(936 180)"/>
+            </g>
+            <g id="Group_169" data-name="Group 169">
+              <g id="Group_164" data-name="Group 164">
+                <text id="JAN_2021" data-name="JAN/2021" class="cls-7" transform="translate(1170 271)"><tspan x="-137.19" y="0">JAN/2021</tspan></text>
+                <text id="Developed_a_Motorcycle_portal_for_micromaxsoft_motorcyclebangladesh.com" data-name="Developed a Motorcycle portal for micromaxsoft motorcyclebangladesh.com" class="cls-8" transform="translate(1260 322)"><tspan x="0" y="35">Developed a Motorcycle portal for micromaxsoft </tspan><tspan x="0" y="80">motorcyclebangladesh.com</tspan></text>
+                <text id="Developed_a_Bank_portal_for_micromaxsoft_banksbangladesh.com" data-name="Developed a Bank portal for micromaxsoft banksbangladesh.com" class="cls-8" transform="translate(1260 431)"><tspan x="0" y="35">Developed a Bank portal for micromaxsoft </tspan><tspan x="0" y="80">banksbangladesh.com</tspan></text>
+                <g id="Group_162" data-name="Group 162">
+                  <g id="Ellipse_4" data-name="Ellipse 4" class="cls-9" transform="translate(1200 242)">
+                    <circle class="cls-44" cx="15" cy="15" r="15"/>
+                    <circle class="cls-45" cx="15" cy="15" r="14"/>
+                  </g>
+                  <text id="Web_developer_-_Micromaxsoft" data-name="Web developer - Micromaxsoft" class="cls-10" transform="translate(1260 269)"><tspan x="0" y="0">WEB DEVELOPER - MICROMAXSOFT</tspan></text>
+                </g>
+                <g id="Group_163" data-name="Group 163">
+                  <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-11" width="202" height="60" rx="12" transform="translate(1893 228)"/>
+                  <text id="Current_Job" data-name="Current Job" class="cls-12" transform="translate(1992 270)"><tspan x="-79.102" y="0">Current Job</tspan></text>
+                </g>
+              </g>
+              <g id="Group_168" data-name="Group 168">
+                <text id="any_type_of_user_interface_design" data-name="any type of user interface design" class="cls-8" transform="translate(1260 653)"><tspan x="0" y="35">any type of user interface design</tspan></text>
+                <g id="Group_167" data-name="Group 167">
+                  <text id="JAN_2021-2" data-name="JAN/2021" class="cls-7" transform="translate(1170 602)"><tspan x="-137.19" y="0">JAN/2021</tspan></text>
+                  <g id="Group_166" data-name="Group 166">
+                    <g id="Ellipse_22" data-name="Ellipse 22" class="cls-9" transform="translate(1200 573)">
+                      <circle class="cls-44" cx="15" cy="15" r="15"/>
+                      <circle class="cls-45" cx="15" cy="15" r="14"/>
+                    </g>
+                    <text id="designer_-_orbit_graphics" data-name="designer - orbit graphics" class="cls-10" transform="translate(1260 601)"><tspan x="0" y="0">DESIGNER - ORBIT GRAPHICS</tspan></text>
+                  </g>
+                </g>
+                <g id="Group_165" data-name="Group 165">
+                  <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-13" width="155" height="60" rx="12" transform="translate(1757 553)"/>
+                  <text id="part-time" class="cls-14" transform="translate(1835 595)"><tspan x="-62.029" y="0">part-time</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_176" data-name="Group 176">
+          <text id="Volunteering" class="cls-5" transform="translate(936 1490)"><tspan x="0" y="0">Volunteering</tspan></text>
+          <g id="Group_175" data-name="Group 175">
+            <g class="cls-58" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_45-2" data-name="Rectangle 45" class="cls-6" width="1413" height="850" rx="20" transform="translate(936 1530)"/>
+            </g>
+            <g id="Group_174" data-name="Group 174">
+              <g id="Group_154" data-name="Group 154" transform="translate(-56 36)">
+                <text id="_2019" data-name="2019" class="cls-7" transform="translate(1158 1575)"><tspan x="-66.66" y="0">2019</tspan></text>
+                <g id="Ellipse_24" data-name="Ellipse 24" class="cls-9" transform="translate(1178 1548)">
+                  <circle class="cls-44" cx="15" cy="15" r="15"/>
+                  <circle class="cls-45" cx="15" cy="15" r="14"/>
+                </g>
+                <g id="Group_47" data-name="Group 47" transform="translate(-26 1228)">
+                  <text id="volunteer_of_two-day_long_ACM-International_Collegiate_programming_Contest_ACM-ICPC_" data-name="volunteer of two-day long ACM-International Collegiate programming
+Contest (ACM-ICPC)" class="cls-8" transform="translate(1264 407)"><tspan x="0" y="0">volunteer of two-day long ACM-International Collegiate programming</tspan><tspan x="0" y="45">Contest (ACM-ICPC)</tspan></text>
+                </g>
+                <text id="National_it_competition_for_youth_with_disabilities_2019" data-name="National it competition for youth with disabilities 2019" class="cls-10" transform="translate(1238 1577)"><tspan x="0" y="0">NATIONAL IT COMPETITION FOR YOUTH WITH DISABILITIES 2019</tspan></text>
+              </g>
+              <g id="Group_155" data-name="Group 155" transform="translate(-56 204)">
+                <text id="_2019-2" data-name="2019" class="cls-7" transform="translate(1158 1575)"><tspan x="-66.66" y="0">2019</tspan></text>
+                <g id="Ellipse_24-2" data-name="Ellipse 24" class="cls-9" transform="translate(1178 1548)">
+                  <circle class="cls-44" cx="15" cy="15" r="15"/>
+                  <circle class="cls-45" cx="15" cy="15" r="14"/>
+                </g>
+                <g id="Group_47-2" data-name="Group 47" transform="translate(-26 1228)">
+                  <text id="Volunteer_of_organizer_team_where_chief_guest_was_BUET_professor_Mohammad_Kaikobad" data-name="Volunteer of organizer team where chief guest was BUET 
+professor Mohammad Kaikobad" class="cls-8" transform="translate(1264 407)"><tspan x="0" y="0">Volunteer of organizer team where chief guest was BUET </tspan><tspan x="0" y="45">professor Mohammad Kaikobad</tspan></text>
+                </g>
+                <text id="iNTER_SCHOOL_AND_COLLAGE_PROGRAMMING_CONTEST_2019" data-name="iNTER SCHOOL AND COLLAGE PROGRAMMING CONTEST 2019" class="cls-10" transform="translate(1238 1577)"><tspan x="0" y="0">INTER SCHOOL AND COLLAGE PROGRAMMING CONTEST 2019</tspan></text>
+              </g>
+              <g id="Group_157" data-name="Group 157" transform="translate(-58 630)">
+                <text id="_2021" data-name="2021" class="cls-7" transform="translate(1158 1575)"><tspan x="-65.37" y="0">2021</tspan></text>
+                <g id="Ellipse_24-3" data-name="Ellipse 24" class="cls-9" transform="translate(1178 1548)">
+                  <circle class="cls-44" cx="15" cy="15" r="15"/>
+                  <circle class="cls-45" cx="15" cy="15" r="14"/>
+                </g>
+                <g id="Group_47-3" data-name="Group 47" transform="translate(-26 1228)">
+                  <text id="SPRING_2021" data-name="SPRING 2021" class="cls-8" transform="translate(1264 407)"><tspan x="0" y="0">SPRING 2021</tspan></text>
+                </g>
+                <text id="PRESIDENT_OF_UAP_CSE_ASSOCIATION" data-name="PRESIDENT OF UAP CSE ASSOCIATION" class="cls-10" transform="translate(1238 1577)"><tspan x="0" y="0">PRESIDENT OF UAP CSE ASSOCIATION</tspan></text>
+              </g>
+              <g id="Group_156" data-name="Group 156" transform="translate(-56 372)">
+                <text id="_2017" data-name="2017" class="cls-7" transform="translate(1158 1575)"><tspan x="-66.09" y="0">2017</tspan></text>
+                <g id="Ellipse_24-4" data-name="Ellipse 24" class="cls-9" transform="translate(1178 1548)">
+                  <circle class="cls-44" cx="15" cy="15" r="15"/>
+                  <circle class="cls-45" cx="15" cy="15" r="14"/>
+                </g>
+                <g id="Group_47-4" data-name="Group 47" transform="translate(-26 1228)">
+                  <text id="Volunteer_of_NITCYD-19._The_daylong_IT_competition_for_differently-abled_students_was_held_at_the_University_of_Asia_pacific_UAP_._Chief_Guest:_Mr._Junaid_Ahmed_Palak_MP_Honorable_State_Minister_ICT_Division." data-name="Volunteer of NITCYD-19. The daylong IT competition for differently-abled
+students was held at the University of Asia pacific (UAP). 
+Chief Guest: Mr. Junaid Ahmed Palak MP, Honorable State Minister,
+ICT Division." class="cls-8" transform="translate(1264 407)"><tspan x="0" y="0">Volunteer of NITCYD-19. The daylong IT competition for differently-abled</tspan><tspan x="0" y="45">students was held at the University of Asia pacific (UAP). </tspan><tspan x="0" y="90">Chief Guest: Mr. Junaid Ahmed Palak MP, Honorable State Minister,</tspan><tspan x="0" y="135">ICT Division.</tspan></text>
+                </g>
+                <text id="ICPC_-_INTERNATIONAL_COLLEGIATE_PROGRAMMING_CONTEST_2017" data-name="ICPC - INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST 2017" class="cls-10" transform="translate(1238 1577)"><tspan x="0" y="0">ICPC - INTERNATIONAL COLLEGIATE PROGRAMMING CONTEST 2017</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_173" data-name="Group 173">
+          <text id="Education" class="cls-5" transform="translate(936 836)"><tspan x="0" y="0">Education</tspan></text>
+          <g id="Group_172" data-name="Group 172">
+            <g class="cls-57" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_29-2" data-name="Rectangle 29" class="cls-6" width="1413" height="534" rx="20" transform="translate(936 876)"/>
+            </g>
+            <g id="Group_56" data-name="Group 56" transform="translate(34 -618)">
+              <text id="SEP_2017" data-name="SEP/2017" class="cls-7" transform="translate(1158 1575)"><tspan x="-135.63" y="0">SEP/2017</tspan></text>
+              <g id="Ellipse_24-5" data-name="Ellipse 24" class="cls-9" transform="translate(1178 1548)">
+                <circle class="cls-44" cx="15" cy="15" r="15"/>
+                <circle class="cls-45" cx="15" cy="15" r="14"/>
+              </g>
+              <g id="Group_47-5" data-name="Group 47" transform="translate(-26 1230)">
+                <text id="B.Sc._in_Computer_Science_and_Engineering" data-name="B.Sc. in Computer Science and Engineering" class="cls-8" transform="translate(1264 407)"><tspan x="0" y="0">B.Sc. in Computer Science and Engineering</tspan></text>
+              </g>
+              <text id="university_of_asia_pacific_" data-name="university of asia pacific " class="cls-10" transform="translate(1238 1577)"><tspan x="0" y="0">UNIVERSITY OF ASIA PACIFIC </tspan></text>
+              <rect id="Rectangle_26" data-name="Rectangle 26" class="cls-11" width="290" height="60" rx="12" transform="translate(1900 1534)"/>
+              <text id="Current_Formation" data-name="Current Formation" class="cls-12" transform="translate(2045 1576)"><tspan x="-122.556" y="0">Current Formation</tspan></text>
+            </g>
+            <g id="Group_58" data-name="Group 58" transform="translate(34 -316)">
+              <text id="JAN_2003" data-name="JAN/2003" class="cls-7" transform="translate(1158 1575)"><tspan x="-145.83" y="0">JAN/2003</tspan></text>
+              <g id="Ellipse_24-6" data-name="Ellipse 24" class="cls-9" transform="translate(1178 1548)">
+                <circle class="cls-44" cx="15" cy="15" r="15"/>
+                <circle class="cls-45" cx="15" cy="15" r="14"/>
+              </g>
+              <g id="Group_47-6" data-name="Group 47" transform="translate(-26 1267)">
+                <text id="Secondary_School_Certificate" data-name="Secondary School Certificate" class="cls-8" transform="translate(1264 407)"><tspan x="0" y="0">Secondary School Certificate</tspan></text>
+              </g>
+              <text id="Government_science_collage_attached_high_school" data-name="Government science collage 
+attached high school" class="cls-10" transform="translate(1238 1577)"><tspan x="0" y="0">GOVERNMENT SCIENCE COLLAGE </tspan><tspan x="0" y="38">ATTACHED HIGH SCHOOL</tspan></text>
+              <rect id="Rectangle_26-2" data-name="Rectangle 26" class="cls-13" width="185" height="60" rx="12" transform="translate(1905 1534)"/>
+              <text id="_2003_-_2014" data-name="2003 - 2014" class="cls-14" transform="translate(1998 1576)"><tspan x="-80.596" y="0">2003 - 2014</tspan></text>
+            </g>
+            <g id="Group_57" data-name="Group 57" transform="translate(34 -471)">
+              <text id="JULY_2014" data-name="JULY/2014" class="cls-7" transform="translate(1158 1575)"><tspan x="-152.34" y="0">JULY/2014</tspan></text>
+              <g id="Ellipse_24-7" data-name="Ellipse 24" class="cls-9" transform="translate(1178 1548)">
+                <circle class="cls-44" cx="15" cy="15" r="15"/>
+                <circle class="cls-45" cx="15" cy="15" r="14"/>
+              </g>
+              <g id="Group_47-7" data-name="Group 47" transform="translate(-26 1239)">
+                <text id="Higher_Secondary_Certificate" data-name="Higher Secondary Certificate" class="cls-8" transform="translate(1264 395)"><tspan x="0" y="0">Higher Secondary Certificate</tspan></text>
+              </g>
+              <text id="Tejgaon_collage" data-name="Tejgaon collage" class="cls-10" transform="translate(1238 1575)"><tspan x="0" y="0">TEJGAON COLLAGE</tspan></text>
+              <rect id="Rectangle_26-3" data-name="Rectangle 26" class="cls-13" width="191" height="60" rx="12" transform="translate(1902 1534)"/>
+              <text id="_2015_-_2016" data-name="2015 - 2016" class="cls-14" transform="translate(1998 1576)"><tspan x="-80.596" y="0">2015 - 2016</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_199" data-name="Group 199">
+        <g id="Group_197" data-name="Group 197">
+          <text id="CEO" class="cls-15" transform="translate(3362.594 1379.394)"><tspan x="-67.08" y="0">CEO</tspan></text>
+          <circle id="Ellipse_40" data-name="Ellipse 40" class="cls-16" cx="12" cy="12" r="12" transform="translate(3338.594 1402.219)"/>
+        </g>
+        <g id="Group_198" data-name="Group 198">
+          <circle id="Ellipse_39" data-name="Ellipse 39" class="cls-17" cx="12" cy="12" r="12" transform="translate(2469 1585.893)"/>
+          <text id="Designer" class="cls-18" transform="translate(2469 1653.308)"><tspan x="0" y="0">Designer</tspan></text>
+        </g>
+        <g id="Group_196" data-name="Group 196">
+          <g id="Group_110" data-name="Group 110" transform="translate(-15 81)">
+            <path id="Union_1" data-name="Union 1" class="cls-19" d="M243.655,92.111H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0h285.89a5,5,0,0,1,5,5V87.111a5,5,0,0,1-5,5H275l-15.671,15.671Z" transform="translate(2692.444 1321.355)"/>
+            <text id="web_developer" data-name="web developer" class="cls-20" transform="translate(2841.083 1378.51)"><tspan x="-114.51" y="0">web developer</tspan></text>
+          </g>
+          <g id="Group_111" data-name="Group 111" transform="translate(5 80)">
+            <g class="cls-56" transform="matrix(1, 0, 0, 1, -5, -80)">
+              <g id="Ellipse_41-2" data-name="Ellipse 41" class="cls-21" transform="translate(2913.89 1519.76)">
+                <circle class="cls-44" cx="23.316" cy="23.316" r="23.316"/>
+                <circle class="cls-45" cx="23.316" cy="23.316" r="20.816"/>
+              </g>
+            </g>
+            <path id="Path_54" data-name="Path 54" class="cls-2" d="M11.658,0A11.658,11.658,0,1,1,0,11.658,11.658,11.658,0,0,1,11.658,0Z" transform="translate(2920.553 1451.422)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_205" data-name="Group 205">
+        <g id="Group_201" data-name="Group 201">
+          <text id="Professional_goal" data-name="Professional goal" class="cls-5" transform="translate(2399 1223)"><tspan x="0" y="0">Professional goal</tspan></text>
+          <g id="Group_200" data-name="Group 200">
+            <g class="cls-55" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_32-2" data-name="Rectangle 32" class="cls-6" width="1009" height="667" rx="20" transform="translate(2399 1264)"/>
+            </g>
+            <g id="Group_106" data-name="Group 106" transform="translate(2399.172 1379.319)">
+              <path id="Path_8" data-name="Path 8" class="cls-22" d="M1003.8,1894.684s31.914-186.856,202.8-152.847c109.159,23.558,172,75.592,334.967-28.775,8.077-5.173,16.18-10.576,24.533-16.365,70.622-55.223,92.483-69.118,167.1-61.942,132.288,17.014,279.6-94.276,279.6-94.276v354.205Z" transform="translate(-1003.797 -1540.479)"/>
+              <path id="Path_7" data-name="Path 7" class="cls-23" d="M1002.625,1892.465s23.063-180.812,203.97-150.628,177.949,80.677,359.5-45.14c70.622-55.223,92.483-69.118,167.1-61.942,132.288,17.014,279.6-94.276,279.6-94.276" transform="translate(-1003.797 -1540.479)"/>
+            </g>
+            <g id="Group_195" data-name="Group 195">
+              <g id="Group_107" data-name="Group 107" transform="translate(2439 1840.964)">
+                <text id="Designer-2" data-name="Designer" class="cls-24" transform="translate(64 30)"><tspan x="0" y="0">Designer</tspan></text>
+                <g id="Group_32" data-name="Group 32" transform="translate(0 13)">
+                  <circle id="Ellipse_25" data-name="Ellipse 25" class="cls-17" cx="6" cy="6" r="6"/>
+                  <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-17" cx="6" cy="6" r="6" transform="translate(21)"/>
+                  <circle id="Ellipse_27" data-name="Ellipse 27" class="cls-17" cx="6" cy="6" r="6" transform="translate(42)"/>
+                </g>
+              </g>
+              <g id="Group_108" data-name="Group 108" transform="translate(2794 1840.964)">
+                <text id="web_developer-2" data-name="web developer" class="cls-24" transform="translate(64 30)"><tspan x="0" y="0">web developer</tspan></text>
+                <g id="Group_33" data-name="Group 33" transform="translate(0 13)">
+                  <circle id="Ellipse_25-2" data-name="Ellipse 25" class="cls-2" cx="6" cy="6" r="6"/>
+                  <circle id="Ellipse_26-2" data-name="Ellipse 26" class="cls-2" cx="6" cy="6" r="6" transform="translate(21)"/>
+                  <circle id="Ellipse_27-2" data-name="Ellipse 27" class="cls-2" cx="6" cy="6" r="6" transform="translate(42)"/>
+                </g>
+              </g>
+              <g id="Group_109" data-name="Group 109" transform="translate(3224 1840.964)">
+                <text id="CEO-2" data-name="CEO" class="cls-24" transform="translate(64 30)"><tspan x="0" y="0">CEO</tspan></text>
+                <g id="Group_34" data-name="Group 34" transform="translate(0 13)">
+                  <circle id="Ellipse_25-3" data-name="Ellipse 25" class="cls-16" cx="6" cy="6" r="6"/>
+                  <circle id="Ellipse_26-3" data-name="Ellipse 26" class="cls-16" cx="6" cy="6" r="6" transform="translate(21)"/>
+                  <circle id="Ellipse_27-3" data-name="Ellipse 27" class="cls-16" cx="6" cy="6" r="6" transform="translate(42)"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_204" data-name="Group 204">
+          <text id="Hobbies" class="cls-5" transform="translate(2399 2025)"><tspan x="0" y="0">Hobbies</tspan></text>
+          <g id="Group_203" data-name="Group 203">
+            <g class="cls-54" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_28-2" data-name="Rectangle 28" class="cls-6" width="1009" height="316" rx="20" transform="translate(2399 2064)"/>
+            </g>
+            <g id="Group_202" data-name="Group 202">
+              <g id="Group_113" data-name="Group 113" transform="translate(-4 30)">
+                <g id="Group_112" data-name="Group 112" transform="translate(11.675 -13.848)">
+                  <path id="Path_55" data-name="Path 55" class="cls-13" d="M78.325,0c26.171,0,28.781,23.453,43.113,43.323,9.178,12.723,35.212,17.914,35.212,35,0,43.257-22.077,57.8-65.335,57.8-31.015,0-50.058,2.812-62.844-23.54C23.561,102.471,0,90.567,0,78.325A78.325,78.325,0,0,1,78.325,0Z" transform="translate(2452.325 2102.848)"/>
+                  <g id="Group_53" data-name="Group 53" class="cls-25" transform="translate(2531.528 2126.851) rotate(45)">
+                    <g id="Group_52" data-name="Group 52" class="cls-26" transform="translate(-1893.684 -589.005)">
+                      <path id="Path_21" data-name="Path 21" class="cls-2" d="M0,95H91.834V0H0Z" transform="translate(1877.85 573.172)"/>
+                    </g>
+                  </g>
+                </g>
+                <text id="Travel" class="cls-7" transform="translate(2542 2294)"><tspan x="-44.985" y="0">Travel</tspan></text>
+              </g>
+              <g id="Group_113-2" data-name="Group 113" transform="translate(232.325 30)">
+                <g id="Group_112-2" data-name="Group 112" transform="translate(11.675 -13.848)">
+                  <path id="Path_55-2" data-name="Path 55" class="cls-13" d="M78.325,0c26.171,0,28.781,23.453,43.113,43.323,9.178,12.723,35.212,17.914,35.212,35,0,43.257-22.077,57.8-65.335,57.8-31.015,0-50.058,2.812-62.844-23.54C23.561,102.471,0,90.567,0,78.325A78.325,78.325,0,0,1,78.325,0Z" transform="translate(2452 2102.348)"/>
+                  <g id="running" transform="translate(2495.648 2138.681)">
+                    <g id="Group_65" data-name="Group 65" transform="translate(4.107 6.161)">
+                      <g id="Group_64" data-name="Group 64" transform="translate(0 0)">
+                        <path id="Path_39" data-name="Path 39" class="cls-2" d="M42.458,68.5h-10.4a2.054,2.054,0,1,0,0,4.107h10.4a2.054,2.054,0,1,0,0-4.107Z" transform="translate(-30 -68.5)"/>
+                      </g>
+                    </g>
+                    <g id="Group_67" data-name="Group 67" transform="translate(4.107 22.589)">
+                      <g id="Group_66" data-name="Group 66" transform="translate(0 0)">
+                        <path id="Path_40" data-name="Path 40" class="cls-2" d="M42.458,188.5h-10.4a2.054,2.054,0,1,0,0,4.107h10.4a2.054,2.054,0,1,0,0-4.107Z" transform="translate(-30 -188.5)"/>
+                      </g>
+                    </g>
+                    <g id="Group_69" data-name="Group 69" transform="translate(0 14.375)">
+                      <g id="Group_68" data-name="Group 68">
+                        <path id="Path_41" data-name="Path 41" class="cls-2" d="M12.458,128.5H2.054a2.054,2.054,0,1,0,0,4.107h10.4a2.054,2.054,0,1,0,0-4.107Z" transform="translate(0 -128.5)"/>
+                      </g>
+                    </g>
+                    <g id="Group_71" data-name="Group 71" transform="translate(26.833 12.318)">
+                      <g id="Group_70" data-name="Group 70">
+                        <path id="Path_42" data-name="Path 42" class="cls-2" d="M235.154,125.8H222.7v-8.214a4.114,4.114,0,0,0-7.012-2.9l-16.427,16.427a4.106,4.106,0,0,0,0,5.808l9.417,9.417L197.2,157.808a4.107,4.107,0,1,0,5.808,5.808l14.375-14.375a4.106,4.106,0,0,0,0-5.808l-9.417-9.417,6.514-6.514v2.406a4.107,4.107,0,0,0,4.107,4.107h16.565a4.107,4.107,0,1,0,0-8.214Z" transform="translate(-196 -113.477)"/>
+                      </g>
+                    </g>
+                    <g id="Group_73" data-name="Group 73" transform="translate(20.672 3.081)">
+                      <g id="Group_72" data-name="Group 72" transform="translate(0 0)">
+                        <path id="Path_43" data-name="Path 43" class="cls-2" d="M168.679,46.7a4.108,4.108,0,0,0-5.182.513L152.2,58.5a4.107,4.107,0,1,0,5.808,5.808l8.914-8.914,3,2.163,4.012-4.012a8.167,8.167,0,0,1,2.328-1.6Z" transform="translate(-150.999 -46.006)"/>
+                      </g>
+                    </g>
+                    <g id="Group_75" data-name="Group 75" transform="translate(2.19 34.958)">
+                      <g id="Group_74" data-name="Group 74">
+                        <path id="Path_44" data-name="Path 44" class="cls-2" d="M41,282.556a8.14,8.14,0,0,1-2.1-3.706L17.2,300.541a4.107,4.107,0,0,0,5.808,5.808L43.9,285.46Z" transform="translate(-16 -278.85)"/>
+                      </g>
+                    </g>
+                    <g id="Group_77" data-name="Group 77" transform="translate(49.422)">
+                      <g id="Group_76" data-name="Group 76">
+                        <circle id="Ellipse_37" data-name="Ellipse 37" class="cls-2" cx="6.161" cy="6.161" r="6.161"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <text id="Sport" class="cls-7" transform="translate(2542 2294)"><tspan x="-41.655" y="0">Sport</tspan></text>
+              </g>
+              <g id="Group_113-3" data-name="Group 113" transform="translate(481 30)">
+                <g id="Group_112-3" data-name="Group 112" transform="translate(11.675 -13.848)">
+                  <path id="Path_55-3" data-name="Path 55" class="cls-13" d="M78.325,0c26.171,0,28.781,23.453,43.113,43.323,9.178,12.723,35.212,17.914,35.212,35,0,43.257-22.077,57.8-65.335,57.8-31.015,0-50.058,2.812-62.844-23.54C23.561,102.471,0,90.567,0,78.325A78.325,78.325,0,0,1,78.325,0Z" transform="translate(2452 2102.348)"/>
+                  <g id="gamepad-controller" transform="translate(2489.558 2143.367)">
+                    <path id="Path_45" data-name="Path 45" class="cls-2" d="M74.63,18.653C63.8.868,47.5,13.241,47.5,13.241a8.453,8.453,0,0,1-4.333,1.46l-4.368,0a8.4,8.4,0,0,1-4.331-1.455S18.157.872,7.33,18.657.868,55.8.868,55.8c.764,4.741,3.283,7.9,8.036,7.507S23.931,50.538,23.931,50.538a5.863,5.863,0,0,1,3.952-1.852l26.186,0a5.853,5.853,0,0,1,3.951,1.852S68.309,62.906,73.056,63.3s7.272-2.769,8.031-7.507C81.086,55.794,85.455,36.435,74.63,18.653ZM31.138,33.129H25.523v5.412a5.234,5.234,0,0,1-3.029.885,3.659,3.659,0,0,1-2.668-.99v-5.3h-5.3a4.264,4.264,0,0,1-.839-2.465,5.656,5.656,0,0,1,.732-3.231h5.617V21.82a6.1,6.1,0,0,1,2.817-.572,7.426,7.426,0,0,1,2.881.677l-.023,5.508h5.3a5.28,5.28,0,0,1,1,2.626A6.632,6.632,0,0,1,31.138,33.129ZM56.894,39.3a4.444,4.444,0,1,1,4.446-4.444A4.438,4.438,0,0,1,56.894,39.3Zm0-12.228a4.444,4.444,0,1,1,4.446-4.443A4.437,4.437,0,0,1,56.894,27.069Zm11.068,6.564a4.444,4.444,0,1,1,4.446-4.444A4.437,4.437,0,0,1,67.962,33.634Z" transform="translate(0 -9.052)"/>
+                  </g>
+                </g>
+                <text id="Video_games" data-name="Video games" class="cls-7" transform="translate(2542 2294)"><tspan x="-99.54" y="0">Video games</tspan></text>
+              </g>
+              <g id="Group_113-4" data-name="Group 113" transform="translate(728.325 30)">
+                <g id="Group_112-4" data-name="Group 112" transform="translate(11.675 -13.848)">
+                  <path id="Path_55-4" data-name="Path 55" class="cls-13" d="M78.325,0c26.171,0,28.781,23.453,43.113,43.323,9.178,12.723,35.212,17.914,35.212,35,0,43.257-22.077,57.8-65.335,57.8-31.015,0-50.058,2.812-62.844-23.54C23.561,102.471,0,90.567,0,78.325A78.325,78.325,0,0,1,78.325,0Z" transform="translate(2452 2102.348)"/>
+                  <g id="study" transform="translate(2498.082 2138.681)">
+                    <g id="Group_84" data-name="Group 84" transform="translate(20.64)">
+                      <g id="Group_83" data-name="Group 83">
+                        <path id="Path_46" data-name="Path 46" class="cls-2" d="M177.19,0a11.253,11.253,0,1,0,11.19,11.315A11.309,11.309,0,0,0,177.19,0Z" transform="translate(-166)"/>
+                      </g>
+                    </g>
+                    <g id="Group_86" data-name="Group 86" transform="translate(20.616 22.505)">
+                      <g id="Group_85" data-name="Group 85">
+                        <path id="Path_47" data-name="Path 47" class="cls-2" d="M180.754,181h-7.46a16.724,16.724,0,0,0-7.484,1.837,46.8,46.8,0,0,1,11.214,4.647,46.8,46.8,0,0,1,11.214-4.647A16.724,16.724,0,0,0,180.754,181Z" transform="translate(-165.81 -181)"/>
+                      </g>
+                    </g>
+                    <g id="Group_88" data-name="Group 88" transform="translate(56.2 33.695)">
+                      <g id="Group_87" data-name="Group 87">
+                        <path id="Path_48" data-name="Path 48" class="cls-2" d="M455.73,271a3.73,3.73,0,0,0-3.73,3.73v7.46a3.73,3.73,0,1,0,7.46,0v-7.46A3.73,3.73,0,0,0,455.73,271Z" transform="translate(-452 -271)"/>
+                      </g>
+                    </g>
+                    <g id="Group_90" data-name="Group 90" transform="translate(0 33.695)">
+                      <g id="Group_89" data-name="Group 89">
+                        <path id="Path_49" data-name="Path 49" class="cls-2" d="M3.73,271A3.73,3.73,0,0,0,0,274.73v7.46a3.73,3.73,0,0,0,7.46,0v-7.46A3.73,3.73,0,0,0,3.73,271Z" transform="translate(0 -271)"/>
+                      </g>
+                    </g>
+                    <g id="Group_92" data-name="Group 92" transform="translate(3.73 26.235)">
+                      <g id="Group_91" data-name="Group 91">
+                        <path id="Path_50" data-name="Path 50" class="cls-2" d="M31.865,211A1.864,1.864,0,0,0,30,212.865v1.865a7.468,7.468,0,0,1,7.46,7.46v7.46a7.468,7.468,0,0,1-7.46,7.46v1.865a1.864,1.864,0,0,0,1.865,1.865c9.562,0,17.207,3.02,24.37,7.584V217.042C49.04,212.917,41.3,211,31.865,211Z" transform="translate(-30 -211)"/>
+                      </g>
+                    </g>
+                    <g id="Group_94" data-name="Group 94" transform="translate(33.695 26.235)">
+                      <g id="Group_93" data-name="Group 93">
+                        <path id="Path_51" data-name="Path 51" class="cls-2" d="M297.235,214.73v-1.865A1.864,1.864,0,0,0,295.37,211c-9.437,0-17.174,1.917-24.37,6.042v31.383c7.163-4.565,14.808-7.584,24.37-7.584a1.864,1.864,0,0,0,1.865-1.865v-1.865a7.468,7.468,0,0,1-7.46-7.46v-7.46A7.468,7.468,0,0,1,297.235,214.73Z" transform="translate(-271 -211)"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <text id="Reading" class="cls-7" transform="translate(2542 2294)"><tspan x="-63.9" y="0">Reading</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_194" data-name="Group 194">
+          <text id="Softwares_Skills" data-name="Softwares Skills" class="cls-5" transform="translate(2405 149)"><tspan x="0" y="0">Softwares Skills</tspan></text>
+          <g id="Group_193" data-name="Group 193">
+            <g class="cls-53" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_23-2" data-name="Rectangle 23" class="cls-6" width="1009" height="950" rx="20" transform="translate(2404 190)"/>
+            </g>
+            <g id="Group_183" data-name="Group 183">
+              <text id="Photoshop" class="cls-7" transform="translate(2444 521)"><tspan x="0" y="0">Photoshop</tspan></text>
+              <g id="Group_182" data-name="Group 182">
+                <rect id="Rectangle_30" data-name="Rectangle 30" class="cls-19" width="900" height="7" rx="3.5" transform="translate(2444 551.261)"/>
+                <rect id="Rectangle_31" data-name="Rectangle 31" class="cls-2" width="783.594" height="7" rx="3.5" transform="translate(2444 551.261)"/>
+                <g id="Group_60" data-name="Group 60" transform="translate(3198.594 525.261)">
+                  <path id="Path_11" data-name="Path 11" class="cls-19" d="M29,0A29,29,0,1,1,0,29,29,29,0,0,1,29,0Z"/>
+                  <g id="Ellipse_29" data-name="Ellipse 29" class="cls-27" transform="translate(14 14)">
+                    <circle class="cls-44" cx="15" cy="15" r="15"/>
+                    <circle class="cls-45" cx="15" cy="15" r="11.5"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_188" data-name="Group 188">
+              <rect id="Rectangle_30-2" data-name="Rectangle 30" class="cls-28" width="882" height="7" rx="3.5" transform="translate(2444 426.955)"/>
+              <g id="Group_181" data-name="Group 181">
+                <text id="Adobe_XD" data-name="Adobe XD" class="cls-7" transform="translate(2444 397)"><tspan x="0" y="0">Adobe XD</tspan></text>
+                <g id="Group_180" data-name="Group 180">
+                  <rect id="Rectangle_31-2" data-name="Rectangle 31" class="cls-2" width="880.59" height="7" rx="3.5" transform="translate(2444 426.955)"/>
+                  <g id="Group_147" data-name="Group 147" transform="translate(3297.594 401.261)">
+                    <path id="Path_11-2" data-name="Path 11" class="cls-19" d="M29,0A29,29,0,1,1,0,29,29,29,0,0,1,29,0Z"/>
+                    <g id="Ellipse_29-2" data-name="Ellipse 29" class="cls-27" transform="translate(14 14)">
+                      <circle class="cls-44" cx="15" cy="15" r="15"/>
+                      <circle class="cls-45" cx="15" cy="15" r="11.5"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_179" data-name="Group 179">
+              <text id="HTML_CSS" data-name="HTML / CSS" class="cls-7" transform="translate(2444 267)"><tspan x="0" y="0">HTML / CSS</tspan></text>
+              <g id="Group_178" data-name="Group 178">
+                <rect id="Rectangle_30-3" data-name="Rectangle 30" class="cls-19" width="901" height="7" rx="3.5" transform="translate(2444 297.375)"/>
+                <rect id="Rectangle_31-3" data-name="Rectangle 31" class="cls-2" width="695.594" height="7" rx="3.5" transform="translate(2444 297.375)"/>
+                <g id="Group_148" data-name="Group 148" transform="translate(3110.594 271.757)">
+                  <path id="Path_11-3" data-name="Path 11" class="cls-19" d="M29,0A29,29,0,1,1,0,29,29,29,0,0,1,29,0Z"/>
+                  <g id="Ellipse_29-3" data-name="Ellipse 29" class="cls-27" transform="translate(14 14)">
+                    <circle class="cls-44" cx="15" cy="15" r="15"/>
+                    <circle class="cls-45" cx="15" cy="15" r="11.5"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_185" data-name="Group 185">
+              <text id="Illustrator" class="cls-7" transform="translate(2444 645)"><tspan x="0" y="0">Illustrator</tspan></text>
+              <g id="Group_184" data-name="Group 184">
+                <rect id="Rectangle_30-4" data-name="Rectangle 30" class="cls-19" width="900" height="7" rx="3.5" transform="translate(2444 675.566)"/>
+                <rect id="Rectangle_31-4" data-name="Rectangle 31" class="cls-2" width="840.594" height="7" rx="3.5" transform="translate(2444 675.566)"/>
+                <g id="Group_60-2" data-name="Group 60" transform="translate(3255.594 650.066)">
+                  <path id="Path_11-4" data-name="Path 11" class="cls-19" d="M29,0A29,29,0,1,1,0,29,29,29,0,0,1,29,0Z"/>
+                  <g id="Ellipse_29-4" data-name="Ellipse 29" class="cls-27" transform="translate(14 14)">
+                    <circle class="cls-44" cx="15" cy="15" r="15"/>
+                    <circle class="cls-45" cx="15" cy="15" r="11.5"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_187" data-name="Group 187">
+              <text id="LARAVEL_PHP" data-name="LARAVEL / PHP" class="cls-7" transform="translate(2444 769)"><tspan x="0" y="0">LARAVEL / PHP</tspan></text>
+              <g id="Group_186" data-name="Group 186">
+                <rect id="Rectangle_30-5" data-name="Rectangle 30" class="cls-19" width="900" height="7" rx="3.5" transform="translate(2444 799.872)"/>
+                <rect id="Rectangle_31-5" data-name="Rectangle 31" class="cls-2" width="782.594" height="7" rx="3.5" transform="translate(2444 799.872)"/>
+                <g id="Group_60-3" data-name="Group 60" transform="translate(3197.594 773.872)">
+                  <path id="Path_11-5" data-name="Path 11" class="cls-19" d="M29,0A29,29,0,1,1,0,29,29,29,0,0,1,29,0Z"/>
+                  <g id="Ellipse_29-5" data-name="Ellipse 29" class="cls-27" transform="translate(14 14)">
+                    <circle class="cls-44" cx="15" cy="15" r="15"/>
+                    <circle class="cls-45" cx="15" cy="15" r="11.5"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_190" data-name="Group 190">
+              <text id="DJANGO_PYTHON" data-name="DJANGO / PYTHON" class="cls-7" transform="translate(2444 894)"><tspan x="0" y="0">DJANGO / PYTHON</tspan></text>
+              <g id="Group_189" data-name="Group 189">
+                <rect id="Rectangle_30-6" data-name="Rectangle 30" class="cls-19" width="900" height="7" rx="3.5" transform="translate(2444 924.178)"/>
+                <rect id="Rectangle_31-6" data-name="Rectangle 31" class="cls-2" width="542" height="7" rx="3.5" transform="translate(2444 924.178)"/>
+                <g id="Group_60-4" data-name="Group 60" transform="translate(2957 898.678)">
+                  <path id="Path_11-6" data-name="Path 11" class="cls-19" d="M29,0A29,29,0,1,1,0,29,29,29,0,0,1,29,0Z"/>
+                  <g id="Ellipse_29-6" data-name="Ellipse 29" class="cls-27" transform="translate(14 14)">
+                    <circle class="cls-44" cx="15" cy="15" r="15"/>
+                    <circle class="cls-45" cx="15" cy="15" r="11.5"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_192" data-name="Group 192">
+              <text id="MATLAB" class="cls-7" transform="translate(2444 1024)"><tspan x="0" y="0">MATLAB</tspan></text>
+              <g id="Group_191" data-name="Group 191">
+                <rect id="Rectangle_30-7" data-name="Rectangle 30" class="cls-19" width="900" height="7" rx="3.5" transform="translate(2444 1054.375)"/>
+                <rect id="Rectangle_31-7" data-name="Rectangle 31" class="cls-2" width="663.59" height="7" rx="3.5" transform="translate(2444 1054.375)"/>
+                <g id="Group_60-5" data-name="Group 60" transform="translate(3081.594 1028.375)">
+                  <path id="Path_11-7" data-name="Path 11" class="cls-19" d="M29,0A29,29,0,1,1,0,29,29,29,0,0,1,29,0Z"/>
+                  <g id="Ellipse_29-7" data-name="Ellipse 29" class="cls-27" transform="translate(14 14)">
+                    <circle class="cls-44" cx="15" cy="15" r="15"/>
+                    <circle class="cls-45" cx="15" cy="15" r="11.5"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_207" data-name="Group 207">
+        <g id="Group_177" data-name="Group 177">
+          <g class="cls-52" transform="matrix(1, 0, 0, 1, 0, 0)">
+            <rect id="Rectangle_12-2" data-name="Rectangle 12" class="cls-6" width="786" height="899" rx="20" transform="translate(100 1481)"/>
+          </g>
+          <g id="Group_13" data-name="Group 13" transform="translate(161 1557)">
+            <g id="Group_25" data-name="Group 25" transform="translate(0 0)">
+              <text id="alkhaledrayhan_gmail.com" data-name="alkhaledrayhan@gmail.com" class="cls-29" transform="translate(104 54)"><tspan x="0" y="0">alkhaledrayhan@gmail.com</tspan></text>
+              <g id="Group_14" data-name="Group 14">
+                <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-19" cx="40" cy="40" r="40"/>
+                <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-30" transform="translate(22 22)">
+                  <g id="envelope_1_" data-name="envelope (1)" transform="translate(-0.292 3.639)">
+                    <g id="Group_10" data-name="Group 10">
+                      <path id="Path_1" data-name="Path 1" class="cls-2" d="M3.511,11.86q.694.49,4.185,2.909t5.349,3.725q.2.143.867.623t1.1.776q.439.3,1.062.663a6.159,6.159,0,0,0,1.174.551,3.235,3.235,0,0,0,1.021.184h.041a3.237,3.237,0,0,0,1.021-.184,6.165,6.165,0,0,0,1.174-.551q.623-.368,1.061-.663t1.1-.776q.663-.48.868-.623,1.878-1.306,9.554-6.635a9.7,9.7,0,0,0,2.49-2.511,5.391,5.391,0,0,0,1-3.082,3.129,3.129,0,0,0-.97-2.307A3.155,3.155,0,0,0,33.317,3H3.266A2.915,2.915,0,0,0,.847,4.062,4.121,4.121,0,0,0,0,6.715,4.769,4.769,0,0,0,1.123,9.5,10.133,10.133,0,0,0,3.511,11.86Z" transform="translate(0 -3)"/>
+                      <path id="Path_2" data-name="Path 2" class="cls-2" d="M34.541,11.87q-6.7,4.532-10.166,7.043-1.164.857-1.888,1.337a11.653,11.653,0,0,1-1.929.98,5.874,5.874,0,0,1-2.245.5h-.041a5.876,5.876,0,0,1-2.246-.5,11.659,11.659,0,0,1-1.929-.98q-.725-.479-1.888-1.337Q9.452,16.892,2.062,11.87A10.814,10.814,0,0,1,0,10.094V26.3A3.145,3.145,0,0,0,.959,28.61a3.145,3.145,0,0,0,2.307.96H33.317A3.276,3.276,0,0,0,36.583,26.3V10.094A11.257,11.257,0,0,1,34.541,11.87Z" transform="translate(0 -0.826)"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_24" data-name="Group 24" transform="translate(0 133.728)">
+              <text id="_880_191_787_9895" data-name="+880 191 787 9895" class="cls-29" transform="translate(110 54.272)"><tspan x="0" y="0">+880 191 787 9895</tspan></text>
+              <g id="Group_15" data-name="Group 15">
+                <circle id="Ellipse_2-2" data-name="Ellipse 2" class="cls-19" cx="40" cy="40" r="40" transform="translate(0 0.272)"/>
+                <g id="Mask_Group_3" data-name="Mask Group 3" class="cls-31" transform="translate(22 22)">
+                  <g id="telephone" transform="translate(0 0.253)">
+                    <g id="Group_11" data-name="Group 11">
+                      <path id="Path_3" data-name="Path 3" class="cls-2" d="M27.37,23.815a2.522,2.522,0,0,0-3.813,0c-.891.884-1.783,1.768-2.659,2.667a.525.525,0,0,1-.734.135c-.577-.315-1.191-.569-1.745-.914a27.655,27.655,0,0,1-6.667-6.068,15.8,15.8,0,0,1-2.39-3.828.548.548,0,0,1,.135-.7c.891-.861,1.76-1.745,2.637-2.629a2.532,2.532,0,0,0-.007-3.9c-.7-.7-1.393-1.393-2.09-2.1C9.316,5.753,8.6,5.027,7.877,4.315a2.539,2.539,0,0,0-3.813.007c-.9.884-1.76,1.79-2.674,2.659A4.341,4.341,0,0,0,.027,9.911a12.41,12.41,0,0,0,.959,5.341,32.457,32.457,0,0,0,5.761,9.6,35.649,35.649,0,0,0,11.806,9.237,17.075,17.075,0,0,0,6.54,1.9A4.793,4.793,0,0,0,29.2,34.422c.764-.854,1.626-1.633,2.435-2.45a2.549,2.549,0,0,0,.015-3.88Q29.52,25.946,27.37,23.815Z" transform="translate(0)"/>
+                      <path id="Path_4" data-name="Path 4" class="cls-2" d="M25.939,17.844l2.764-.472a12.408,12.408,0,0,0-10.5-10.181l-.39,2.779a9.589,9.589,0,0,1,8.121,7.873Z" transform="translate(0)"/>
+                      <path id="Path_5" data-name="Path 5" class="cls-2" d="M30.261,5.828A20.383,20.383,0,0,0,18.575,0l-.39,2.779a17.785,17.785,0,0,1,15.05,14.585L36,16.893A20.532,20.532,0,0,0,30.261,5.828Z" transform="translate(0)"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_23" data-name="Group 23" transform="translate(0 270.627)">
+              <text id="Tejgaon_Dhaka_Bangladesh" data-name="Tejgaon, Dhaka, Bangladesh" class="cls-29" transform="translate(110 54.373)"><tspan x="0" y="0">Tejgaon, Dhaka, Bangladesh</tspan></text>
+              <g id="Group_16" data-name="Group 16" transform="translate(0 2)">
+                <circle id="Ellipse_2-3" data-name="Ellipse 2" class="cls-19" cx="40" cy="40" r="40" transform="translate(0 0.373)"/>
+                <g id="Mask_Group_2" data-name="Mask Group 2" class="cls-32" transform="translate(22 22)">
+                  <path id="placeholder_2_" data-name="placeholder (2)" class="cls-2" d="M26.916,3.693a12.607,12.607,0,0,0-17.83,0C4.679,8.1,4.131,16.39,7.9,21.412L18,36,28.087,21.433C31.871,16.39,31.323,8.1,26.916,3.693Zm-8.8,13.4a4.6,4.6,0,1,1,4.6-4.6A4.608,4.608,0,0,1,18.117,17.094Z" transform="translate(0 0.403)"/>
+                </g>
+              </g>
+            </g>
+            <g id="Group_22" data-name="Group 22" transform="translate(0 409.543)">
+              <text id="Linkedin.com_in_alkhaledrayhan" data-name="Linkedin.com/in/alkhaledrayhan" class="cls-29" transform="translate(110 54.457)"><tspan x="0" y="0">Linkedin.com/in/alkhaledrayhan</tspan></text>
+              <g id="Group_17" data-name="Group 17">
+                <circle id="Ellipse_2-4" data-name="Ellipse 2" class="cls-19" cx="40" cy="40" r="40" transform="translate(0 0.457)"/>
+                <g id="Mask_Group_4" data-name="Mask Group 4" class="cls-33" transform="translate(22 22)">
+                  <g id="linkedin-logo" transform="translate(0 0.161)">
+                    <path id="LinkedIn" class="cls-2" d="M36,21.891V35.2H28.284V22.782c0-3.12-1.116-5.248-3.909-5.248a4.222,4.222,0,0,0-3.959,2.823,5.28,5.28,0,0,0-.256,1.881V35.2H12.442s.1-21.032,0-23.211h7.718v3.29c-.016.025-.036.051-.051.075h.051v-.075a7.663,7.663,0,0,1,6.955-3.835C32.193,11.444,36,14.761,36,21.891ZM4.368.8a4.022,4.022,0,1,0-.1,8.022h.052A4.024,4.024,0,1,0,4.368.8ZM.458,35.2H8.174V11.989H.458Z" transform="translate(0 -0.8)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_21" data-name="Group 21" transform="translate(0 543.272)">
+              <text id="Github.com_rayhan1996" data-name="Github.com/rayhan1996" class="cls-29" transform="translate(110 53.728)"><tspan x="0" y="0">Github.com/rayhan1996</tspan></text>
+              <g id="Group_18" data-name="Group 18">
+                <circle id="Ellipse_2-5" data-name="Ellipse 2" class="cls-19" cx="40" cy="40" r="40" transform="translate(0 -0.272)"/>
+                <path id="Icon_awesome-github" data-name="Icon awesome-github" class="cls-2" d="M11.665,27.942c0,.141-.162.253-.366.253-.232.021-.394-.091-.394-.253,0-.141.162-.253.366-.253C11.482,27.668,11.665,27.78,11.665,27.942Zm-2.187-.316c-.049.141.091.3.3.345a.33.33,0,0,0,.436-.141c.042-.141-.091-.3-.3-.366A.361.361,0,0,0,9.478,27.626Zm3.108-.12c-.2.049-.345.183-.323.345.021.141.2.232.415.183s.345-.183.323-.323S12.79,27.485,12.586,27.506ZM17.212.563A16.86,16.86,0,0,0,0,17.719,17.628,17.628,0,0,0,11.918,34.537c.9.162,1.216-.394,1.216-.851,0-.436-.021-2.841-.021-4.317,0,0-4.922,1.055-5.955-2.1,0,0-.8-2.046-1.955-2.573,0,0-1.61-1.1.113-1.083A3.711,3.711,0,0,1,8.03,25.432a3.717,3.717,0,0,0,5.126,1.47,3.908,3.908,0,0,1,1.125-2.37c-3.93-.436-7.9-1.005-7.9-7.77a5.329,5.329,0,0,1,1.659-4.141,6.643,6.643,0,0,1,.183-4.774c1.47-.457,4.852,1.9,4.852,1.9a16.611,16.611,0,0,1,8.831,0s3.382-2.363,4.852-1.9a6.64,6.64,0,0,1,.183,4.774,5.466,5.466,0,0,1,1.814,4.141c0,6.785-4.141,7.327-8.072,7.77a4.158,4.158,0,0,1,1.2,3.263c0,2.37-.021,5.3-.021,5.878,0,.457.323,1.013,1.216.851a17.466,17.466,0,0,0,11.8-16.8C34.875,7.966,26.965.563,17.212.563ZM6.834,24.813c-.091.07-.07.232.049.366.113.112.274.162.366.07.091-.07.07-.232-.049-.366C7.087,24.771,6.926,24.722,6.834,24.813Zm-.759-.57c-.049.091.021.2.162.274a.209.209,0,0,0,.3-.049c.049-.091-.021-.2-.162-.274C6.237,24.152,6.124,24.173,6.075,24.244Zm2.278,2.5c-.113.091-.07.3.091.436.162.162.366.183.457.07.091-.091.049-.3-.091-.436C8.655,26.655,8.445,26.634,8.353,26.747Zm-.8-1.034c-.113.07-.113.253,0,.415s.3.232.394.162a.321.321,0,0,0,0-.436C7.847,25.692,7.664,25.622,7.552,25.713Z" transform="translate(22.562 22.164)"/>
+              </g>
+            </g>
+            <g id="Group_20" data-name="Group 20" transform="translate(0 677)">
+              <text id="Behance.net_alkhaledrayhan" data-name="Behance.net/alkhaledrayhan" class="cls-29" transform="translate(110 54)"><tspan x="0" y="0">Behance.net/alkhaledrayhan</tspan></text>
+              <g id="Group_19" data-name="Group 19">
+                <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-19" cx="40" cy="40" r="40"/>
+                <g id="Mask_Group_6" data-name="Mask Group 6" class="cls-30" transform="translate(22 22)">
+                  <g id="behance-logo" transform="translate(0 6.8)">
+                    <path id="Behance" class="cls-2" d="M32.511,9.97H23.49V7.729h9.021V9.97h0ZM17.485,19.158a5.923,5.923,0,0,1,.873,3.281,6.535,6.535,0,0,1-1,3.574,6.2,6.2,0,0,1-1.585,1.759A6.123,6.123,0,0,1,13.251,28.9a15.629,15.629,0,0,1-3.163.3H0V6.8H10.818c2.727.044,4.66.834,5.8,2.386a5.7,5.7,0,0,1,1.024,3.421,4.986,4.986,0,0,1-1.035,3.3A5.281,5.281,0,0,1,14.9,17.179,4.974,4.974,0,0,1,17.485,19.158ZM5.166,15.631h4.74a4.491,4.491,0,0,0,2.368-.555,2.117,2.117,0,0,0,.908-1.969,2,2,0,0,0-1.2-2.066,8.462,8.462,0,0,0-2.644-.35H5.166Zm8.473,6.488a2.4,2.4,0,0,0-1.425-2.4,5.613,5.613,0,0,0-2.24-.38H5.166v5.969H9.9a5.259,5.259,0,0,0,2.268-.393A2.824,2.824,0,0,0,13.639,22.119Zm22.219-3.644A21.07,21.07,0,0,1,36,21.661H24.313a3.835,3.835,0,0,0,1.677,3.385,4.224,4.224,0,0,0,2.313.6,3.258,3.258,0,0,0,3.19-1.837h4.282a5.215,5.215,0,0,1-1.554,2.9,7.794,7.794,0,0,1-6.034,2.343,8.757,8.757,0,0,1-5.652-1.975q-2.443-1.979-2.446-6.428a8.688,8.688,0,0,1,2.208-6.4,7.738,7.738,0,0,1,5.74-2.225,9.148,9.148,0,0,1,3.773.75,6.5,6.5,0,0,1,2.77,2.376A7.92,7.92,0,0,1,35.857,18.475Zm-4.215.418a3.5,3.5,0,0,0-1.121-2.536,3.657,3.657,0,0,0-2.486-.869,3.326,3.326,0,0,0-2.5.92,4.324,4.324,0,0,0-1.118,2.484h7.229Z" transform="translate(0 -6.8)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_161" data-name="Group 161">
+          <g id="Group_160" data-name="Group 160">
+            <g class="cls-51" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_11-2" data-name="Rectangle 11" class="cls-6" width="786" height="1039" rx="20" transform="translate(100 179)"/>
+            </g>
+            <g id="Group_159" data-name="Group 159">
+              <text id="I_am_a_highly_competent_IT_professional_with_a_proven_track_record_in_designing_websites_networking_and_managing_databases._I_have_strong_technical_skills_as_well_as_excellent_interpersonal_skills_enabling_me_to_interact_with_a_wide_range_of_clients." data-name="I am a highly competent IT professional with a proven 
+track record in designing websites, networking and 
+managing databases. I have strong technical skills as 
+well as excellent interpersonal skills, enabling me to 
+interact with a wide range of clients." class="cls-24" transform="translate(493 771)"><tspan x="-372.327" y="0">I Am A Highly Competent IT Professional With A Proven </tspan><tspan x="-355.92" y="51">Track Record In Designing Websites, Networking And </tspan><tspan x="-370.107" y="102">Managing Databases. I Have Strong Technical Skills As </tspan><tspan x="-356.836" y="153">Well As Excellent Interpersonal Skills, Enabling Me To </tspan><tspan x="-375.015" y="204">Interact With A Wide Range Of Clients. I Am Eager To Be </tspan><tspan x="-374.033" y="255">Challenged In Order To Grow And Further Improve My IT </tspan><tspan x="-325.627" y="306">Skills. My Greatest Passion Is In Life Is Using My </tspan><tspan x="-334.753" y="357">Technical Know-How To Benefit Other People And </tspan><tspan x="-96.826" y="408">Organisations.</tspan></text>
+              <g id="Group_158" data-name="Group 158">
+                <g class="cls-50" transform="matrix(1, 0, 0, 1, 0, 0)">
+                  <circle id="al_khaled_rayhan_42-2" data-name="al khaled rayhan 42" class="cls-34" cx="145" cy="145" r="145" transform="translate(348 239)"/>
+                </g>
+                <text id="AL_KHALED_RAYHAN" data-name="AL KHALED RAYHAN" class="cls-35" transform="translate(484 614)"><tspan x="-195.48" y="0">AL KHALED RAYHAN</tspan></text>
+                <text id="WEB_DEVELOPER-3" data-name="WEB DEVELOPER" class="cls-36" transform="translate(484 662)"><tspan x="-183.39" y="0">WEB DEVELOPER</tspan></text>
+              </g>
+            </g>
+          </g>
+          <text id="personal_information" data-name="personal information" class="cls-5" transform="translate(100 138)"><tspan x="0" y="0">personal information</tspan></text>
+        </g>
+        <g id="Group_153" data-name="Group 153" transform="translate(0 11)">
+          <g id="Group_152" data-name="Group 152">
+            <g class="cls-49" transform="matrix(1, 0, 0, 1, 0, -11)">
+              <rect id="Rectangle_13-2" data-name="Rectangle 13" class="cls-37" width="248" height="169" rx="12" transform="translate(100 1265)"/>
+            </g>
+            <text id="_20" data-name="+20" class="cls-38" transform="translate(120 1339)"><tspan x="0" y="0">+20</tspan></text>
+            <text id="Projects" class="cls-39" transform="translate(126 1388)"><tspan x="0" y="0">Projects</tspan></text>
+          </g>
+          <g id="Group_150" data-name="Group 150" transform="translate(-2821 -2807)">
+            <g class="cls-48" transform="matrix(1, 0, 0, 1, 2821, 2796)">
+              <rect id="Rectangle_43-2" data-name="Rectangle 43" class="cls-40" width="248" height="169" rx="12" transform="translate(369 1265)"/>
+            </g>
+            <text id="_10" data-name="+10" class="cls-41" transform="translate(3210 4146)"><tspan x="0" y="0">+10</tspan></text>
+            <text id="Customers" class="cls-39" transform="translate(3210 4195)"><tspan x="0" y="0">Customers</tspan></text>
+          </g>
+          <g id="Group_149" data-name="Group 149" transform="translate(-2850 -2807)">
+            <g class="cls-47" transform="matrix(1, 0, 0, 1, 2850, 2796)">
+              <rect id="Rectangle_44-2" data-name="Rectangle 44" class="cls-42" width="248" height="169" rx="12" transform="translate(638 1265)"/>
+            </g>
+            <text id="_8_months" data-name="8 months" class="cls-43" transform="translate(3508 4146)"><tspan x="0" y="0">8 months</tspan></text>
+            <text id="Experience-2" data-name="Experience" class="cls-39" transform="translate(3508 4195)"><tspan x="0" y="0">Experience</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
